@@ -12,15 +12,21 @@
 3. Mình gặp khó khăn là đang không biết 1 tuần nộp mấy cái báo cáo, chưa biết record lại buổi họp kiểu gì để không bị mất tiếng, lag nữa
 ### Lâm:
 1.Tuần vừa rồi mình đã hoàn thành phần tìm kiếm tài liệu.
+
 2.Tuần này mình sẽ tiếp tục tổng hợp nội dung.
+
 3.Hiện tại mình chưa gặp khó khăn gì.
 ### Quân:
 1.Tuần vừa rồi mình đã hoàn thành phần được phân công.
+
 2.Tuần này mình sẽ tiếp tục hoàn thiện bài tập.
+
 3.Mình đang gặp một chút khó khăn trong việc tìm tài liệu.
 ### Kiên:
 1.Tuần vừa rồi mình đã hoàn thành phần nghiên cứu nội dung.
+
 2.Tuần này mình sẽ tiếp tục chỉnh sửa và hoàn thiện bài.
+
 3.Hiện tại mình chưa có khó khăn gì cần hỗ trợ.
 ## Nhiệm vụ 3:
 -S: Buổi trưa ngày hôm nay bạn Bình vẫn chưa hoàn thành phần Word của mình
