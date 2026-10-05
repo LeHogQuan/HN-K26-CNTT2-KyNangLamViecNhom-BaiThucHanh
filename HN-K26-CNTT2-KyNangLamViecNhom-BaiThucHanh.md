@@ -6,19 +6,19 @@
 -Bước 3: Hùng cần xác nhận lại thông tin mà thành viên miêu tả lại công việc được giao, vd như: đúng rồi nhé; bạn còn thiếu...
 
 ## Nhiệm vụ 2:
-###Nhóm trưởng:
+### Nhóm trưởng:
 1. Tuần vừa rồi mình đã nộp xong báo cáo môn nhập môn công nghệ thông tin
 2. Tuần này mình định tiếp tục hoàn thành báo cáo nhóm hoàn chỉnh hơn
 3. Mình gặp khó khăn là đang không biết 1 tuần nộp mấy cái báo cáo, chưa biết record lại buổi họp kiểu gì để không bị mất tiếng, lag nữa
-###Lâm:
+### Lâm:
 1.Tuần vừa rồi mình đã hoàn thành phần tìm kiếm tài liệu.
 2.Tuần này mình sẽ tiếp tục tổng hợp nội dung.
 3.Hiện tại mình chưa gặp khó khăn gì.
-- Quân:
+### Quân:
 1.Tuần vừa rồi mình đã hoàn thành phần được phân công.
 2.Tuần này mình sẽ tiếp tục hoàn thiện bài tập.
 3.Mình đang gặp một chút khó khăn trong việc tìm tài liệu.
-###Kiên:
+### Kiên:
 1.Tuần vừa rồi mình đã hoàn thành phần nghiên cứu nội dung.
 2.Tuần này mình sẽ tiếp tục chỉnh sửa và hoàn thiện bài.
 3.Hiện tại mình chưa có khó khăn gì cần hỗ trợ.
